@@ -1,0 +1,61 @@
+
+.section-search input {
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+}
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+
+.header-content p{
+  text-transform: uppercase;
+  font-size:1.6rem;
+}
+
+.header-content h2{
+  font-weight: 700;
+}
+
+a{
+  font-size: 1.6rem;
+  text-decoration: none;
+}
+.header-content{
+  background-image: url('download.jpg');
+  background-size: cover;
+  position: relative;
+  height: 95vh;
+  background-position: center;
+}
+h2{
+  color: white;
+  font-weight: 400;
+}
+.card-content{
+	font-size: 1.6rem;
+}
+.button{
+  display: inline-block;
+  padding: 0.5em 1.5em;
+  font-weight: 500;
+  margin: 0.5em 0;
+}
+
+.button-primary{
+  background: white;
+  border-radius: 10em;
+}
+
+.button-primary:hover{
+  background-color: #ddd;
+}
+.md-heading{
+  font-size: 2.2rem;
+}
+
+.text-red{
+  color: #e63946;
+}
