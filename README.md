@@ -1,2 +1,2 @@
 # Travel-website
-A repository for we development project
+A repository for web development project
